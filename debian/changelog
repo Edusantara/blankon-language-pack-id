@@ -1,0 +1,41 @@
+blankon-language-pack-id (9.0.6+edusantara1) anambas; urgency=medium
+
+  * Change blankon-installer.po to edusantara 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 24 Aug 2014 22:57:43 +0700
+
+blankon-language-pack-id (9.0.6) suroboyo; urgency=low
+
+  * Add conflicts rote-language-pack-id 
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 12 Feb 2014 22:57:59 +0700
+
+blankon-language-pack-id (9.0.5) suroboyo; urgency=low
+
+  * Fixed blankon-installer.po
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Wed, 12 Feb 2014 09:08:54 +0700
+
+blankon-language-pack-id (9.0.4) suroboyo; urgency=low
+
+  * remove post*
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 07 Feb 2014 14:39:05 +0700
+
+blankon-language-pack-id (9.0.3) suroboyo; urgency=low
+
+  * Update postinst postrem drop divert
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 07 Feb 2014 14:28:15 +0700
+
+blankon-language-pack-id (9.0.2) suroboyo; urgency=low
+
+  * postins postrm
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 07 Feb 2014 06:00:19 +0000
+
+blankon-language-pack-id (9.0.1) suroboyo; urgency=low
+
+  * blankon-installer
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 07 Feb 2014 12:44:46 +0700

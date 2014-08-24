@@ -1,0 +1,22 @@
+Source: blankon-language-pack-id
+Section: translations
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
+Build-Depends-Indep: gettext
+Build-Depends: debhelper (>= 4.1.0)
+Standards-Version: 3.7.3
+
+Package: blankon-language-pack-id
+Architecture: all
+Pre-Depends: dpkg (>= 1.10.27)
+Depends: locales (>= 2.3.6), 
+Suggests: language-support-id
+Conflicts : ombilin-language-pack-id, pattimura-language-pack-id, rote-language-pack-id, language-pack-id-base, language-pack-gnome-id-base, language-pack-kde-id-base 
+Replaces: language-pack-id-base,  language-pack-gnome-id-base, language-pack-kde-id-base 
+Description: BlankON translations for language Indonesian 
+ Translation data for all supported GNOME packages for:
+ Indonesian
+ .
+ Please note that you should install language-support-id 
+ to get full support for this language (spell checkers, OpenOffice 
+ locale packages, etc.).

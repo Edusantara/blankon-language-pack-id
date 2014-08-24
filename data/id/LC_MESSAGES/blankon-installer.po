@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Preko Labs <dotovr@di.blankon.in>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2012-04-16 16:32+0400\n"
+"PO-Revision-Date: 2014-08-24 22:54+0700\n"
+"Last-Translator: Preko Labs <dotovr@di.blankon.in>\n"
+"Language-Team: BlankOn Developers\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Welcome to Edusantara"
+msgstr "Selamat datang di Edusantara"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Welcome to Edusantara installation program. Please choose your language and region below continue. If your choice is not on the list, you can choose the default values and set again later after the system is fully installed in the Settings application."
+msgstr "Selamat datang di program pemasangan Edusantara. Pilih bahasa dan lokasi anda untuk melanjutkan. Apabila pilihan Anda tidak terdapat dalam daftar, Anda bisa memilih pilihan default dan mengaturnya setelah sistem terpasang pada aplikasi Pengaturan."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Language"
+msgstr "Bahasa"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Region"
+msgstr "Lokasi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Keyboard"
+msgstr "Papan tik"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "You can choose whether want to continue using the Live CD or to install into your computer"
+msgstr "Anda dapat memilih untuk tetap menggunakan moda Live CD atau memasangnya ke komputer."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Continue using Live CD"
+msgstr "Gunakan sebagai live CD"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Install Edusantara"
+msgstr "Pasang Edusantara"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Installation Target"
+msgstr "Target Pemasangan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Sorry, it seems that there is no device that we can install Edusantara into. Please attach a hard drive or flash disk before continuing. If you're running as normal user, try again running the installer as root."
+msgstr "Maaf, sepertinya tidak ada perangkat keras yang dapat dipasangi Edusantara. Silakan pasang dulu hard disk atau flash disk sebelumnya. Jika Anda mencoba menjalankan program ini dari pengguna biasa, silakan gunakan akun root."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please wait while I scan your computer for available devices"
+msgstr "Silakan tunggu, sedang mengumpulkan informasi perangkat keras di komputer ini"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please choose the partition on device below which you would like to install Edusantara into."
+msgstr "Silakan pilih partisi dalam perangkat yang hendak Anda pasangi Edusantara."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "WARNING"
+msgstr "PERINGATAN"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "The selected partition will be wiped out. Swap partition will be created if you don't have one."
+msgstr "Partisi yang dipilih akan dihapus. Partisi swap akan dibuat jika belum ada."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Personalization"
+msgstr "Personalisasi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please enter your personalization preference below.."
+msgstr "Masukkan preferensi personalisasi Anda di bawah ini .."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Enforce strong password"
+msgstr "Gunakan kata kunci kuat"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Automatically login"
+msgstr "Masuk secara otomatis"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Computer Name"
+msgstr "Nama Komputer"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Computer name must be at least 1 character long and started with an alphabet. It must be written in lowercase ascii without any space."
+msgstr "Nama komputer setidaknya 1 karakter dan dimulai dengan alfabet. Ditulis dengan huruf kecil tanpa spasi."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Your Name"
+msgstr "Nama Anda"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "User Name"
+msgstr "Nama Pengguna"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Username must be at least 1 character long and started with an alphabet. It must be written in lowercase ascii without any space."
+msgstr "Nama pengguna setidaknya 1 karakter dan dimulai dengan alfabet. Ditulis dengan huruf kecil tanpa spasi."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password"
+msgstr "Kata kunci"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password must be at least 8 character long with number and alphabet lowercase and uppercase combination."
+msgstr "Kata kunci setidaknya 8 karakter kombinasi angka, huruf kecil, dan huruf besar."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password must be at least 1 character."
+msgstr "Kata sandi minimal harus 1 karakter."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password should be at least 8 character long with number and alphabet lowercase and uppercase combination, otherwise it will be very easy for others to guess your password."
+msgstr "Kata kunci setidaknya 8 karakter kombinasi angka, huruf kecil, dan huruf besar, apabila tidak, kata kunci akan terlalu mudah untuk ditebak."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Password (once again)"
+msgstr "Kata kunci (sekali lagi)"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "You must use exactly the same password as typed above."
+msgstr "Anda harus memasukkan kata kunci sama persis seperti tertulis di atas"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Installation Summary"
+msgstr "Ringkasan Instalasi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "This is our installation summary. Please proceed if you're agree. Beyond this point, the installer will make changes to your system and you can't go back."
+msgstr "Ini adalah ringkasan instalasi kita. Lanjutkan jika Anda setuju. Setelah langkah ini, program akan melakukan perubahan pada sistem Anda dan Anda tidak bisa kembali lagi ke langkah sebelumnya."
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Target device"
+msgstr "Sasaran perangkat"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Target partition"
+msgstr "Sasaran partisi"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Computer name"
+msgstr "Nama Komputer"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Full name"
+msgstr "Nama lengkap"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "User name"
+msgstr "Nama pengguna"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Installation"
+msgstr "Pemasangan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Please wait a moment while the installation is applied to your system"
+msgstr "Mohon tunggu sebentar sementara instalasi diterapkan pada sistem anda"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Preparing"
+msgstr "Persiapan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Done"
+msgstr "Selesai"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Your system is ready, now please continue to reboot into your newly installed system"
+msgstr "Sistem Anda sudah siap, sekarang silakan reboot ke sistem Anda yang baru dipasang"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Reboot to newly installed system"
+msgstr "Jalankan ulang komputer dan gunakan sistem baru"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "ADVANCED MODE"
+msgstr "MODE LANJUTAN"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Click to switch to Quick Mode"
+msgstr "Klik untuk beralih ke Mode Cepat"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Click to switch to Advanced Mode"
+msgstr "Klik untuk beralih ke Mode Lanjutan"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Previous"
+msgstr "Kembali"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Next"
+msgstr "Berikutnya"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Sorry,"
+msgstr "Maaf,"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "There is an error during installation. Please see the log below, you can capture this or just send the /var/log/blankon-installer.log file to blankon-dev@googlegroups.com"
+msgstr "Ada kesalahan pada saat instalasi. Silakan lihat log di bawah ini, Anda dapat menangkap gambar ini atau kirim berkas /var/log/blankon-installer.log ke alamat blankon-dev@googlegroups.com"
+
+#. type: span
+#: FIXME:0
+#, no-wrap
+msgid "Exit installation and continue using LiveCD"
+msgstr "Keluar instalasi dan lanjut menggunakan LiveCD"
+
+#. type: textarea
+#: FIXME:0
+#, no-wrap
+msgid "Please wait while loading the log..."
+msgstr "Mohon tunggu saat akan memuat log ..."
