@@ -25,7 +25,7 @@ msgstr "Selamat datang di Edusantara"
 #. type: span
 #: FIXME:0
 #, no-wrap
-msgid "WWelcome to Edusantara installation program. Please choose your language and region below to continue. If your choice is not on the list, you can choose the default values and set again later after the system is fully installed in the Settings application."
+msgid "Welcome to Edusantara installation program. Please choose your language and region below to continue. If your choice is not on the list, you can choose the default values and set again later after the system is fully installed in the Settings application."
 msgstr "Selamat datang di program pemasangan Edusantara. Pilih bahasa dan lokasi anda untuk melanjutkan. Apabila pilihan Anda tidak terdapat dalam daftar, Anda bisa memilih pilihan default dan mengaturnya setelah sistem terpasang pada aplikasi Pengaturan."
 
 #. type: span
