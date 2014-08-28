@@ -1,3 +1,9 @@
+blankon-language-pack-id (9.0.6+edusantara2) anambas; urgency=low
+
+  * Fix translation not complete
+
+ -- Mahyuddin <yudi.al@gmail.com>  Thu, 28 Aug 2014 13:59:43 +0700
+
 blankon-language-pack-id (9.0.6+edusantara1) anambas; urgency=medium
 
   * Change blankon-installer.po to edusantara 
